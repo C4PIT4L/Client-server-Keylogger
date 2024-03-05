@@ -1,2 +1,2 @@
-*-----------------------------------Client server in Python based on keylogger with GUI-----------------------------------*
+*------------------------------Client server in Python based on keylogger with GUI------------------------------*
 
