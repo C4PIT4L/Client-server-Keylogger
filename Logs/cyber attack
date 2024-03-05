@@ -1,0 +1,28 @@
+    FIRST OF ALL:
+SQL Injection:
+
+if you type in the code the name of the username' OR '1'='1', i will return TRUE so it will log you in
+
+USE THIS TO TRY:
+
+email: 123' OR '1'='1
+Password: NO MATTER WHAT
+
+SERVER OUTPUT: SELECT * from Users where email='123' OR '1'='1' and password='c1a5298f939e87e8f962a5edfc206918'
+1. IS YOUR EMAIL 123 AND YOUR PASSWORD IS 834: Answer: NO
+2. IS YOUR EMAIL 123 OR 1=1 ANSWER: YES
+3. LOGIN
+
+another method:
+SELECT * from Users where email='123'-- 'and password='2ffe4e77325d9a7152f7086ea7aa5114'
+
+in this method the -- means comment, so it just gonna ask IS your email 123 if so you log in
+
+Dictionary ATTACK:
+using a file with lots of password and run this file to try to hack into the system
+
+BRUTE FORCE ATTACK:
+By adding log monitor system i can detect when a user use brute force attack.
+
+Man in the middle attack:
+Using SSL to secure the connection between the client/server

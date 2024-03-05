@@ -1,0 +1,1833 @@
+2023-02-04 19:16:23,369:WARNING:Failed login: username=1234
+2023-02-04 19:16:31,084:WARNING:Failed login: username=
+2023-02-04 19:16:37,720:WARNING:Successful login: username=123
+2023-02-04 19:27:53,687:WARNING:Successful login: username=123
+2023-02-04 19:33:36,612:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-04 19:37:22,461:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-04 19:52:41,742:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-04 19:53:12,640:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:53:16,306:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:54:33,772:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:54:35,540:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:54:39,590:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:54:43,399:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:54:45,959:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:54:49,426:WARNING:Blocked IP=127.0.0.1 for excessive login attempts
+2023-02-04 19:55:19,819:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-04 19:59:45,814:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:59:47,388:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:59:49,303:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:59:51,488:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:59:53,224:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-04 19:59:59,649:WARNING:Blocked IP=127.0.0.1 for excessive login attempts
+2023-02-04 20:00:05,310:WARNING:Blocked IP=127.0.0.1 for excessive login attempts
+2023-02-04 20:16:01,971:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-04 20:16:43,418:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-04 20:18:30,588:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-04 20:18:51,139:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-05 19:27:25,389:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-05 19:31:53,442:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-05 19:34:44,023:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-05 19:35:05,888:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-05 19:51:42,290:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-10 22:42:11,020:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-10 22:43:04,580:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-10 22:43:19,518:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-10 22:58:18,267:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 17:35:07,457:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 17:45:07,716:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:02:03,182:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:03:55,265:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:07:13,407:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:08:29,867:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:13:04,392:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:16:11,713:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:25:16,920:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:26:29,068:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:27:39,017:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:32:05,648:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:35:34,512:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:38:04,709:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:45:59,684:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:47:05,755:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:55:49,326:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:58:25,684:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:59:09,717:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 18:59:41,555:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 19:00:40,114:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 19:05:50,060:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 19:08:37,590:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 19:15:33,507:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 19:24:56,698:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:07:15,287:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:07:28,868:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:10:45,799:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:12:28,160:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:13:08,286:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:14:24,269:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:15:23,675:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-11 20:24:00,986:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-12 16:00:38,827:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-12 16:03:34,197:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-12 16:04:51,694:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-12 16:05:50,280:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-12 16:06:23,609:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-12 19:26:47,286:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-12 19:27:10,275:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-13 18:20:06,948:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-13 18:21:08,917:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-15 19:05:09,571:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-15 19:08:47,694:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-16 19:07:20,613:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-16 19:13:49,979:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-16 19:14:51,810:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-16 19:18:53,742:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-16 19:39:19,674:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-16 19:40:24,260:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-16 19:44:05,876:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 12:42:12,865:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 12:43:16,582:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 12:48:20,104:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 12:50:04,210:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:04:00,553:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:05:17,923:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:20:45,461:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:36:00,526:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:45:43,850:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:46:16,245:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:46:58,509:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:47:53,082:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:49:53,644:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:50:20,598:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:50:49,666:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:52:57,999:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:55:19,168:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:56:59,796:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:59:17,961:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 13:59:33,999:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:00:06,149:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:00:51,175:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:01:16,587:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:01:55,729:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:02:27,868:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:03:00,860:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:03:30,261:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:04:12,851:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:06:21,615:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:06:59,463:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:07:42,380:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:08:13,825:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:08:56,780:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:09:24,402:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:10:36,363:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:11:27,703:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:12:02,483:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:12:39,905:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:13:22,348:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:14:32,493:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:15:36,468:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:16:34,861:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:17:43,457:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:19:27,024:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:23:21,919:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:26:04,704:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 14:30:34,285:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 17:49:56,577:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 17:51:27,031:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 17:52:50,795:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 17:53:10,478:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 17:53:39,694:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:01:23,070:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:04:12,325:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:05:46,302:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:09:05,872:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:10:50,925:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:11:37,273:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:13:39,077:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:16:11,634:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:17:06,356:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:23:35,337:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-17 18:24:00,905:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 09:35:47,974:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:04:54,003:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:09:24,896:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:11:09,514:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:13:07,928:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:16:36,978:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:21:33,850:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:34:23,742:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:44:38,531:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:45:44,112:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:47:34,981:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:49:14,425:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 10:55:49,477:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:24:10,948:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:25:49,164:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:29:46,398:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:30:15,679:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:35:51,925:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:41:15,519:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:42:32,856:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:45:40,068:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:53:10,475:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:56:15,348:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:57:36,261:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 13:57:58,698:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:01:27,834:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:02:43,104:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:03:26,976:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:07:16,993:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:09:55,842:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:10:55,383:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:12:26,666:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:13:21,746:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:13:57,561:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:14:29,465:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:15:43,802:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:16:07,987:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:18:15,765:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:18:53,539:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:25:49,605:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:27:00,577:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:29:43,105:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:30:21,099:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:34:52,239:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:37:49,919:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-18 14:38:40,454:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-19 07:22:03,097:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-24 15:17:43,885:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-24 15:26:20,495:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-24 15:26:40,574:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-24 15:35:18,748:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-24 15:35:52,826:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-26 18:06:38,433:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-26 18:08:35,295:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-26 18:58:02,553:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-02-26 18:58:04,420:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 08:04:35,782:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 08:07:58,187:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 08:12:50,485:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 08:13:38,890:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 10:45:04,301:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 10:49:54,406:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 11:13:25,841:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 11:14:07,934:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-02-27 11:14:37,518:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-04 22:06:02,510:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-04 22:17:37,982:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-04 22:30:30,832:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:10:32,503:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:17:57,969:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:20:32,173:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:21:04,386:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:27:50,093:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:31:26,918:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:45:21,906:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 20:52:26,765:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:00:01,535:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:12:47,401:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:19:11,909:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:23:46,803:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:27:18,684:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:32:13,975:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:40:16,681:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:43:24,417:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:50:49,158:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:56:17,971:WARNING:Failed login: username=1231, IP=127.0.0.1
+2023-03-06 21:56:19,985:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 21:59:44,057:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:04:52,142:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:08:59,487:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:15:23,831:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:17:47,167:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:20:35,685:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:20:59,010:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:22:32,735:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:36:50,521:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:37:46,685:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:39:31,298:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:40:18,507:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:44:30,483:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:48:42,843:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:50:23,798:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:52:09,632:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:53:41,895:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:55:35,063:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 22:56:17,937:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:08:07,450:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:13:06,576:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:25:50,905:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:27:38,898:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:28:33,390:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:35:06,191:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:39:15,242:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:44:33,349:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:48:54,740:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:49:17,672:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:49:49,569:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:50:41,675:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:51:01,145:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:53:50,677:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:57:16,891:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-06 23:57:34,684:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 00:27:05,591:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 00:28:56,070:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 00:29:36,917:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 00:30:19,236:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:26:02,824:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:35:31,050:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:37:44,882:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:45:00,039:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:45:09,109:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:45:32,295:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:47:46,959:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:49:03,628:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 10:51:41,079:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 13:18:04,775:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 13:22:15,532:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:17:10,797:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:28:54,464:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:31:05,264:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:31:19,533:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-03-07 16:31:48,501:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:37:33,678:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:47:52,226:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:48:00,337:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-03-07 16:49:03,366:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:49:14,016:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-03-07 16:49:38,064:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:51:14,040:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:51:21,727:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:51:28,425:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:54:32,035:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:54:38,222:WARNING:Failed login: username=, IP=127.0.0.1
+2023-03-07 16:54:42,623:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:57:34,367:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 16:58:54,577:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:14:54,531:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:16:23,814:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:19:43,921:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:25:53,333:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:26:35,602:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:29:04,821:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:33:36,057:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:34:31,493:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:35:10,782:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-07 17:36:15,749:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:07:19,791:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:07:55,151:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:10:22,081:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:12:41,008:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:13:04,282:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:13:22,019:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:13:36,778:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:13:50,436:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:14:32,785:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:18:17,413:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:21:16,096:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:22:08,897:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:22:22,724:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:22:38,280:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:25:10,081:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:45:08,982:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:46:10,902:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:49:26,825:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:57:06,045:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:58:57,704:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 12:59:34,464:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:01:37,570:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:13:51,733:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:20:48,662:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:22:07,480:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:23:54,044:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:26:31,278:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:28:11,388:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:28:31,234:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:33:14,651:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:35:58,370:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:41:12,094:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:42:01,294:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:45:20,904:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:49:41,718:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:49:57,473:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:50:28,370:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:51:57,183:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:53:35,188:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:54:51,761:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:55:34,515:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:57:36,024:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-03-08 13:59:02,870:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 13:59:26,080:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:03:26,842:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:08:06,648:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:08:34,147:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:09:11,673:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:09:45,181:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:14:06,551:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:16:43,578:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:18:25,917:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:19:42,224:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:20:49,129:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:21:01,739:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-03-08 14:21:11,583:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:24:06,176:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-08 14:30:00,801:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:43:28,942:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:44:12,312:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:46:45,189:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:49:32,992:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:54:18,383:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:56:33,201:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:57:19,564:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 22:57:52,501:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:00:44,702:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:01:24,808:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:03:30,607:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:04:01,120:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:06:12,749:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:06:37,399:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:07:23,918:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:11:16,517:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:14:27,934:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:15:25,705:WARNING:Failed login: username=12312, IP=127.0.0.1
+2023-03-09 23:15:32,719:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:20:20,805:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:22:16,686:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:22:39,156:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:22:58,908:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-09 23:26:25,031:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 19:47:32,045:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 20:59:30,626:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 21:01:29,137:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 21:02:04,687:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 21:41:31,650:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 21:47:58,130:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 21:57:05,345:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 21:59:32,213:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-12 22:08:04,315:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:29:54,514:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:34:49,902:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:38:10,568:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:39:40,037:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:51:50,093:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:52:19,592:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:57:27,946:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 09:59:30,514:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 10:01:44,542:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 10:03:35,365:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 10:06:01,434:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 10:07:57,249:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 10:10:54,607:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 10:12:47,354:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 10:13:28,878:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 14:58:10,833:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:01:06,993:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:02:43,034:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:08:55,022:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:16:49,176:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:17:22,769:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:20:59,185:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:26:26,461:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:28:48,587:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:35:02,050:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:40:35,732:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:43:23,335:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:47:34,968:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:48:08,930:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:49:50,223:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 15:58:07,808:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:00:32,641:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:18:22,122:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:19:40,874:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:20:15,921:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:22:02,701:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:24:39,106:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:26:18,910:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:28:35,397:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:33:06,676:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:35:21,317:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:42:36,736:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:42:49,299:WARNING:Failed login: username=, IP=127.0.0.1
+2023-03-13 16:43:00,470:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 16:59:49,082:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:03:11,803:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:09:37,301:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:10:06,821:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:11:30,942:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:13:47,772:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-03-13 17:13:49,418:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:16:02,055:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:21:30,679:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-13 17:22:34,071:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-15 18:13:34,237:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-03-15 18:14:03,050:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-15 18:20:21,629:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-19 19:32:15,252:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 13:08:47,795:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 13:28:13,653:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 13:29:28,699:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:06:52,598:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:08:17,186:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:09:02,447:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:09:25,845:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:10:04,621:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:10:53,232:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:11:33,257:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:24:55,980:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:27:10,612:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:31:23,127:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:32:04,767:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:32:54,568:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:34:10,612:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:42:37,713:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:46:49,596:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:48:53,218:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:51:30,904:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:54:26,627:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:57:15,378:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:57:29,446:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:57:56,530:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 14:58:20,471:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:01:20,391:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:05:36,749:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:06:32,428:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:07:22,997:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:10:30,414:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:11:50,373:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:12:31,830:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:13:09,540:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:13:47,190:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:14:44,735:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:15:25,593:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:15:55,612:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:16:36,710:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:17:23,412:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:18:18,416:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:19:10,512:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:19:38,170:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:20:47,711:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:23:49,536:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:33:33,453:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:41:46,318:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:46:33,683:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 15:53:12,499:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:14:46,880:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:18:36,362:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:22:32,551:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:24:36,641:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:27:25,078:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:30:47,034:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:33:30,741:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:36:21,199:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 16:39:55,806:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 19:55:20,680:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:01:17,705:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:04:40,621:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:45:58,287:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:47:43,134:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:51:01,911:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:55:52,761:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:58:16,154:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 20:59:48,101:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-21 21:00:51,617:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 00:54:33,984:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 00:56:16,614:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 00:56:54,349:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 00:57:48,220:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 00:58:44,108:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:00:01,871:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:02:06,078:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:02:53,479:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:03:39,035:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:03:51,346:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:04:58,520:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:06:47,134:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-22 01:08:31,091:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-23 20:27:48,645:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-23 20:31:59,484:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-23 20:34:32,113:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-23 20:37:00,801:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-03-23 20:37:06,706:WARNING:Failed login: username=123, IP=127.0.0.1
+2023-03-26 16:15:35,142:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-26 17:19:54,565:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-26 23:44:03,984:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 19:05:05,223:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 19:05:16,710:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 19:51:59,258:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:00:05,950:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:01:36,790:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:02:16,862:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:02:34,338:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:02:52,978:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:03:22,620:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:03:53,208:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:04:23,025:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:04:48,659:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:06:16,397:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-28 20:46:36,136:WARNING:A client without a server is not a good combination
+2023-03-28 20:46:38,104:WARNING:A client without a server is not a good combination
+2023-03-28 20:47:29,957:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 16:48:17,451:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 16:50:34,491:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 16:50:48,895:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 16:55:28,382:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 17:04:15,190:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:20:18,506:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:23:08,433:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:26:14,926:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:33:16,431:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:33:36,912:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:43:49,730:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:44:49,881:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:45:39,159:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:51:27,778:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-30 20:52:00,027:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:33:23,995:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:36:09,562:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:38:42,934:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:39:36,096:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:47:41,506:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:48:23,171:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:51:38,871:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:54:12,488:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 11:57:49,948:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 12:10:18,168:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 12:10:37,579:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 12:19:42,560:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 12:25:57,020:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 12:46:55,816:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 12:55:44,223:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:11:43,330:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:20:17,958:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:25:34,403:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:27:13,175:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:36:02,750:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:36:57,347:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:40:47,333:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:43:43,879:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:44:39,454:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:45:55,268:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:46:59,131:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:48:54,463:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:49:28,716:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:52:56,184:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:53:35,513:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 17:54:14,057:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 19:48:28,662:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 19:49:24,495:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 21:32:29,920:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 21:33:55,949:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 21:36:00,439:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 21:39:40,283:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 21:42:52,601:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 21:47:09,524:WARNING:A client without a server is not a good combination
+2023-03-31 21:47:23,850:WARNING:A client without a server is not a good combination
+2023-03-31 21:48:03,111:WARNING:A client without a server is not a good combination
+2023-03-31 21:48:27,613:WARNING:A client without a server is not a good combination
+2023-03-31 21:48:54,469:WARNING:A client without a server is not a good combination
+2023-03-31 21:49:42,219:WARNING:A client without a server is not a good combination
+2023-03-31 21:50:59,133:WARNING:A client without a server is not a good combination
+2023-03-31 21:51:33,791:WARNING:A client without a server is not a good combination
+2023-03-31 21:52:41,353:WARNING:A client without a server is not a good combination
+2023-03-31 21:53:22,311:WARNING:A client without a server is not a good combination
+2023-03-31 21:53:39,127:WARNING:A client without a server is not a good combination
+2023-03-31 21:53:51,233:WARNING:A client without a server is not a good combination
+2023-03-31 21:54:13,705:WARNING:A client without a server is not a good combination
+2023-03-31 21:58:51,716:WARNING:A client without a server is not a good combination
+2023-03-31 21:59:01,887:WARNING:A client without a server is not a good combination
+2023-03-31 22:01:41,510:WARNING:A client without a server is not a good combination
+2023-03-31 22:01:56,563:WARNING:A client without a server is not a good combination
+2023-03-31 22:02:31,411:WARNING:A client without a server is not a good combination
+2023-03-31 22:02:42,577:WARNING:A client without a server is not a good combination
+2023-03-31 22:16:16,631:WARNING:A client without a server is not a good combination
+2023-03-31 22:16:41,964:WARNING:A client without a server is not a good combination
+2023-03-31 22:17:42,558:WARNING:A client without a server is not a good combination
+2023-03-31 22:25:34,838:WARNING:A client without a server is not a good combination
+2023-03-31 22:26:16,570:WARNING:A client without a server is not a good combination
+2023-03-31 22:26:59,339:WARNING:A client without a server is not a good combination
+2023-03-31 22:30:03,162:WARNING:A client without a server is not a good combination
+2023-03-31 22:30:30,176:WARNING:A client without a server is not a good combination
+2023-03-31 22:31:07,488:WARNING:A client without a server is not a good combination
+2023-03-31 22:31:43,589:WARNING:A client without a server is not a good combination
+2023-03-31 22:32:52,987:WARNING:A client without a server is not a good combination
+2023-03-31 22:33:40,272:WARNING:A client without a server is not a good combination
+2023-03-31 22:34:37,090:WARNING:A client without a server is not a good combination
+2023-03-31 22:35:22,584:WARNING:A client without a server is not a good combination
+2023-03-31 22:36:00,088:WARNING:A client without a server is not a good combination
+2023-03-31 22:37:06,912:WARNING:A client without a server is not a good combination
+2023-03-31 22:37:53,204:WARNING:A client without a server is not a good combination
+2023-03-31 22:39:13,989:WARNING:A client without a server is not a good combination
+2023-03-31 22:39:48,265:WARNING:A client without a server is not a good combination
+2023-03-31 22:40:49,173:WARNING:A client without a server is not a good combination
+2023-03-31 22:42:20,884:WARNING:A client without a server is not a good combination
+2023-03-31 22:42:44,193:WARNING:A client without a server is not a good combination
+2023-03-31 22:43:09,378:WARNING:A client without a server is not a good combination
+2023-03-31 22:43:27,304:WARNING:A client without a server is not a good combination
+2023-03-31 22:43:39,257:WARNING:A client without a server is not a good combination
+2023-03-31 22:45:30,527:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 22:46:04,021:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 23:19:28,496:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-03-31 23:28:56,784:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 10:22:37,778:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 10:24:38,099:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 10:26:56,681:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 10:29:48,471:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 10:35:52,711:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 10:36:49,320:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 10:38:23,357:WARNING:A client without a server is not a good combination
+2023-04-01 10:38:33,534:WARNING:A client without a server is not a good combination
+2023-04-01 10:42:50,064:WARNING:A client without a server is not a good combination
+2023-04-01 10:43:14,226:WARNING:A client without a server is not a good combination
+2023-04-01 10:43:30,284:WARNING:A client without a server is not a good combination
+2023-04-01 10:43:42,508:WARNING:A client without a server is not a good combination
+2023-04-01 10:44:00,484:WARNING:A client without a server is not a good combination
+2023-04-01 12:34:35,261:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 12:35:38,355:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 19:39:56,532:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 19:43:16,190:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 19:43:43,746:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 19:59:49,057:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 20:02:52,597:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 20:05:34,628:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 20:07:41,750:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 21:06:53,657:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 23:39:39,629:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 23:50:17,045:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-01 23:57:37,866:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-02 00:01:59,137:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-02 00:04:30,367:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-02 00:07:01,139:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-02 00:08:02,796:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:12:10,764:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:15:05,867:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:23:38,805:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:24:12,933:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:24:46,688:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:31:47,824:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:32:17,886:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 11:41:00,212:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 17:33:20,290:WARNING:A client without a server is not a good combination
+2023-04-03 17:33:22,418:WARNING:A client without a server is not a good combination
+2023-04-03 17:36:17,315:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 17:36:30,655:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-04-03 17:40:07,518:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 17:40:19,866:WARNING:Successful login: username=max, IP=127.0.0.1
+2023-04-03 17:43:33,470:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-03 17:57:22,010:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-04 10:25:33,715:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 09:07:47,893:WARNING:A client without a server is not a good combination
+2023-04-05 13:27:54,570:WARNING:A client without a server is not a good combination
+2023-04-05 13:27:56,845:WARNING:A client without a server is not a good combination
+2023-04-05 13:28:07,322:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 13:52:27,279:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 14:03:52,187:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 14:06:30,526:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 14:21:53,665:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 14:23:46,744:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:03:32,208:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:12:42,138:WARNING:A client without a server is not a good combination
+2023-04-05 23:17:23,951:WARNING:A client without a server is not a good combination
+2023-04-05 23:20:16,937:WARNING:A client without a server is not a good combination
+2023-04-05 23:21:39,627:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:23:12,861:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:31:06,340:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:32:49,198:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:33:05,720:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:33:47,135:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:34:37,701:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:34:56,738:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-05 23:35:32,573:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-06 18:12:43,366:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-06 18:21:46,494:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-06 21:48:33,495:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-09 19:04:45,063:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-10 21:47:02,961:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-10 21:48:08,690:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-14 17:29:57,155:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-14 17:48:25,474:WARNING:A client without a server is not a good combination
+2023-04-14 17:52:14,615:WARNING:A client without a server is not a good combination
+2023-04-14 18:03:39,974:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-14 18:06:25,118:WARNING:A client without a server is not a good combination
+2023-04-14 18:06:50,301:WARNING:A client without a server is not a good combination
+2023-04-15 12:29:49,779:WARNING:A client without a server is not a good combination
+2023-04-15 12:32:29,955:WARNING:A client without a server is not a good combination
+2023-04-15 12:33:21,206:WARNING:A client without a server is not a good combination
+2023-04-15 12:34:06,139:WARNING:A client without a server is not a good combination
+2023-04-15 12:37:22,357:WARNING:A client without a server is not a good combination
+2023-04-15 12:38:00,493:WARNING:A client without a server is not a good combination
+2023-04-15 12:38:55,113:WARNING:A client without a server is not a good combination
+2023-04-15 12:39:38,470:WARNING:A client without a server is not a good combination
+2023-04-15 12:59:17,251:WARNING:A client without a server is not a good combination
+2023-04-15 13:07:53,719:WARNING:A client without a server is not a good combination
+2023-04-15 14:38:51,583:WARNING:A client without a server is not a good combination
+2023-04-15 14:41:07,638:WARNING:A client without a server is not a good combination
+2023-04-15 14:48:01,665:WARNING:A client without a server is not a good combination
+2023-04-15 14:48:54,265:WARNING:A client without a server is not a good combination
+2023-04-15 14:49:22,649:WARNING:A client without a server is not a good combination
+2023-04-15 14:50:19,303:WARNING:A client without a server is not a good combination
+2023-04-15 14:50:39,858:WARNING:A client without a server is not a good combination
+2023-04-15 14:50:54,679:WARNING:A client without a server is not a good combination
+2023-04-15 14:51:30,106:WARNING:A client without a server is not a good combination
+2023-04-15 14:52:01,389:WARNING:A client without a server is not a good combination
+2023-04-15 14:52:35,262:WARNING:A client without a server is not a good combination
+2023-04-15 14:53:23,637:WARNING:A client without a server is not a good combination
+2023-04-15 14:54:05,847:WARNING:A client without a server is not a good combination
+2023-04-15 14:54:19,612:WARNING:A client without a server is not a good combination
+2023-04-15 14:54:47,465:WARNING:A client without a server is not a good combination
+2023-04-15 14:55:09,630:WARNING:A client without a server is not a good combination
+2023-04-15 14:56:13,259:WARNING:A client without a server is not a good combination
+2023-04-15 14:57:20,462:WARNING:A client without a server is not a good combination
+2023-04-15 14:58:25,550:WARNING:A client without a server is not a good combination
+2023-04-15 15:00:02,909:WARNING:A client without a server is not a good combination
+2023-04-15 15:01:05,738:WARNING:A client without a server is not a good combination
+2023-04-15 15:01:39,050:WARNING:A client without a server is not a good combination
+2023-04-15 15:02:03,445:WARNING:A client without a server is not a good combination
+2023-04-15 15:08:28,134:WARNING:A client without a server is not a good combination
+2023-04-15 15:08:52,550:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 15:10:26,991:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 15:11:50,689:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 15:14:29,167:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 15:15:36,439:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 15:15:58,736:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 15:18:05,835:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 15:20:10,720:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 16:56:16,568:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:01:11,208:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:02:46,207:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:10:37,706:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:13:28,753:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:14:42,446:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:15:09,118:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:16:10,498:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:21:28,392:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:25:15,735:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:26:57,790:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:28:04,181:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:28:37,492:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:29:37,270:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:30:04,613:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:32:43,362:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:33:55,785:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:37:03,061:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:37:31,220:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:38:28,921:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:40:47,823:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:41:50,239:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:42:38,482:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:43:49,166:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:44:24,220:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:45:12,892:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:47:47,275:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:48:36,394:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:50:01,459:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:51:00,428:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 17:51:55,097:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 19:56:20,198:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-15 20:02:49,988:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-16 17:49:08,229:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-16 17:56:34,938:WARNING:Successful login: username=123, IP=127.0.0.1
+2023-04-16 18:13:19,938:WARNING:A client without a server is not a good combination
+2023-04-16 18:14:09,939:WARNING:A client without a server is not a good combination
+2023-04-16 18:14:48,383:WARNING:A client without a server is not a good combination
+2023-04-16 18:15:02,883:WARNING:A client without a server is not a good combination
+2023-04-16 18:15:14,625:WARNING:A client without a server is not a good combination
+2023-04-16 18:16:26,793:WARNING:A client without a server is not a good combination
+2023-04-16 18:17:25,779:WARNING:A client without a server is not a good combination
+2023-04-16 18:18:24,409:WARNING:A client without a server is not a good combination
+2023-04-16 18:18:55,228:WARNING:A client without a server is not a good combination
+2023-04-16 18:19:11,072:WARNING:A client without a server is not a good combination
+2023-04-16 18:19:41,706:WARNING:A client without a server is not a good combination
+2023-04-16 18:19:53,832:WARNING:A client without a server is not a good combination
+2023-04-16 18:20:04,771:WARNING:A client without a server is not a good combination
+2023-04-16 18:20:18,129:WARNING:A client without a server is not a good combination
+2023-04-16 18:23:30,835:WARNING:A client without a server is not a good combination
+2023-04-16 18:24:00,719:WARNING:A client without a server is not a good combination
+2023-04-16 18:24:26,861:WARNING:A client without a server is not a good combination
+2023-04-16 18:25:53,238:WARNING:A client without a server is not a good combination
+2023-04-16 18:26:14,137:WARNING:A client without a server is not a good combination
+2023-04-16 18:26:53,160:WARNING:A client without a server is not a good combination
+2023-04-16 18:27:46,073:WARNING:A client without a server is not a good combination
+2023-04-16 18:28:09,542:WARNING:A client without a server is not a good combination
+2023-04-16 18:28:46,707:WARNING:A client without a server is not a good combination
+2023-04-16 18:29:04,832:WARNING:A client without a server is not a good combination
+2023-04-16 18:30:17,377:WARNING:A client without a server is not a good combination
+2023-04-16 18:31:34,166:WARNING:A client without a server is not a good combination
+2023-04-16 18:32:09,446:WARNING:A client without a server is not a good combination
+2023-04-16 18:33:54,749:WARNING:A client without a server is not a good combination
+2023-04-16 18:35:00,043:WARNING:A client without a server is not a good combination
+2023-04-16 18:36:48,601:WARNING:A client without a server is not a good combination
+2023-04-16 18:38:02,238:WARNING:A client without a server is not a good combination
+2023-04-16 18:38:17,737:WARNING:A client without a server is not a good combination
+2023-04-16 18:38:36,515:WARNING:A client without a server is not a good combination
+2023-04-16 19:39:22,617:WARNING:A client without a server is not a good combination
+2023-04-16 19:39:48,945:WARNING:A client without a server is not a good combination
+2023-04-16 19:40:11,007:WARNING:A client without a server is not a good combination
+2023-04-16 19:44:20,693:WARNING:A client without a server is not a good combination
+2023-04-16 19:45:55,369:WARNING:A client without a server is not a good combination
+2023-04-16 19:46:38,929:WARNING:A client without a server is not a good combination
+2023-04-16 19:47:57,521:WARNING:A client without a server is not a good combination
+2023-04-16 19:48:12,150:WARNING:A client without a server is not a good combination
+2023-04-16 19:48:36,914:WARNING:A client without a server is not a good combination
+2023-04-16 19:48:59,329:WARNING:A client without a server is not a good combination
+2023-04-16 19:49:22,571:WARNING:A client without a server is not a good combination
+2023-04-16 19:50:23,642:WARNING:A client without a server is not a good combination
+2023-04-16 19:50:48,066:WARNING:A client without a server is not a good combination
+2023-04-16 19:51:04,253:WARNING:A client without a server is not a good combination
+2023-04-16 19:51:22,522:WARNING:A client without a server is not a good combination
+2023-04-16 19:52:05,455:WARNING:A client without a server is not a good combination
+2023-04-16 19:52:31,723:WARNING:A client without a server is not a good combination
+2023-04-16 19:53:34,220:WARNING:A client without a server is not a good combination
+2023-04-16 19:54:10,272:WARNING:A client without a server is not a good combination
+2023-04-16 19:55:36,596:WARNING:A client without a server is not a good combination
+2023-04-16 19:58:36,712:WARNING:A client without a server is not a good combination
+2023-04-18 18:00:10,496:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-18 18:22:26,504:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-18 19:37:43,830:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:04:23,032:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:04:39,651:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:07:40,413:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:08:11,520:WARNING:A client without a server is not a good combination
+2023-04-24 10:08:13,717:WARNING:A client without a server is not a good combination
+2023-04-24 10:08:27,024:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:08:42,575:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:10:25,464:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:10:26,818:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:10:28,387:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:10:30,428:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:10:32,356:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-04-24 10:10:38,298:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-04-24 10:10:41,271:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-04-24 10:10:50,856:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-04-24 10:16:24,486:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:48:41,133:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:52:24,645:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:52:55,117:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:53:33,846:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:54:19,382:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:55:56,866:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 10:57:12,099:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-24 11:00:27,406:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-26 20:39:49,710:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:05:23,484:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:07:05,628:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:12:27,046:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:13:10,087:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:13:57,512:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:16:33,506:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:20:43,214:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:21:18,238:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:21:32,861:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:22:03,831:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:22:34,226:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:23:47,756:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:24:37,790:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:26:24,406:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:27:31,717:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:28:05,504:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:28:40,084:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 17:58:37,189:WARNING:A client without a server is not a good combination
+2023-04-27 18:01:43,344:WARNING:A client without a server is not a good combination
+2023-04-27 18:09:56,291:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 18:41:03,624:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 18:43:35,156:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 18:45:12,380:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 18:54:44,612:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 18:55:25,566:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 18:58:29,744:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 19:00:06,488:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 19:03:06,135:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 19:10:11,856:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-27 21:21:49,418:WARNING:A client without a server is not a good combination
+2023-04-27 21:22:17,299:WARNING:A client without a server is not a good combination
+2023-04-27 21:22:31,767:WARNING:A client without a server is not a good combination
+2023-04-27 21:23:50,064:WARNING:A client without a server is not a good combination
+2023-04-27 21:25:11,237:WARNING:A client without a server is not a good combination
+2023-04-27 21:29:18,766:WARNING:A client without a server is not a good combination
+2023-04-27 21:31:24,872:WARNING:A client without a server is not a good combination
+2023-04-27 21:32:06,409:WARNING:A client without a server is not a good combination
+2023-04-28 16:59:48,569:WARNING:A client without a server is not a good combination
+2023-04-28 17:12:48,367:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-28 17:19:25,323:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-28 21:23:08,913:WARNING:A client without a server is not a good combination
+2023-04-28 21:23:28,225:WARNING:A client without a server is not a good combination
+2023-04-28 21:24:22,526:WARNING:A client without a server is not a good combination
+2023-04-28 21:24:57,189:WARNING:A client without a server is not a good combination
+2023-04-28 21:25:09,256:WARNING:A client without a server is not a good combination
+2023-04-28 21:25:22,689:WARNING:A client without a server is not a good combination
+2023-04-28 21:25:33,516:WARNING:A client without a server is not a good combination
+2023-04-28 21:31:07,434:WARNING:A client without a server is not a good combination
+2023-04-28 21:37:10,689:WARNING:A client without a server is not a good combination
+2023-04-28 21:38:40,102:WARNING:A client without a server is not a good combination
+2023-04-28 21:39:09,114:WARNING:A client without a server is not a good combination
+2023-04-28 21:39:22,819:WARNING:A client without a server is not a good combination
+2023-04-28 21:40:15,660:WARNING:A client without a server is not a good combination
+2023-04-28 21:42:17,440:WARNING:A client without a server is not a good combination
+2023-04-28 21:43:10,783:WARNING:A client without a server is not a good combination
+2023-04-28 21:43:31,785:WARNING:A client without a server is not a good combination
+2023-04-28 21:43:47,076:WARNING:A client without a server is not a good combination
+2023-04-28 21:44:05,638:WARNING:A client without a server is not a good combination
+2023-04-28 21:44:20,483:WARNING:A client without a server is not a good combination
+2023-04-28 21:44:40,264:WARNING:A client without a server is not a good combination
+2023-04-28 21:45:05,807:WARNING:A client without a server is not a good combination
+2023-04-28 21:46:17,670:WARNING:A client without a server is not a good combination
+2023-04-28 21:46:54,329:WARNING:A client without a server is not a good combination
+2023-04-28 21:47:26,627:WARNING:A client without a server is not a good combination
+2023-04-28 21:47:46,210:WARNING:A client without a server is not a good combination
+2023-04-28 21:50:13,689:WARNING:A client without a server is not a good combination
+2023-04-28 21:50:37,763:WARNING:A client without a server is not a good combination
+2023-04-28 21:50:54,645:WARNING:A client without a server is not a good combination
+2023-04-28 21:51:24,503:WARNING:A client without a server is not a good combination
+2023-04-28 21:52:56,816:WARNING:A client without a server is not a good combination
+2023-04-28 21:56:47,722:WARNING:A client without a server is not a good combination
+2023-04-28 21:57:37,264:WARNING:A client without a server is not a good combination
+2023-04-28 21:58:08,087:WARNING:A client without a server is not a good combination
+2023-04-28 22:00:13,812:WARNING:A client without a server is not a good combination
+2023-04-28 22:02:29,724:WARNING:A client without a server is not a good combination
+2023-04-28 22:03:30,785:WARNING:A client without a server is not a good combination
+2023-04-28 22:05:04,302:WARNING:A client without a server is not a good combination
+2023-04-28 22:07:00,535:WARNING:A client without a server is not a good combination
+2023-04-28 22:08:01,439:WARNING:A client without a server is not a good combination
+2023-04-28 22:09:48,874:WARNING:A client without a server is not a good combination
+2023-04-28 22:12:29,880:WARNING:A client without a server is not a good combination
+2023-04-28 22:13:17,248:WARNING:A client without a server is not a good combination
+2023-04-28 22:14:04,393:WARNING:A client without a server is not a good combination
+2023-04-28 22:14:52,899:WARNING:A client without a server is not a good combination
+2023-04-28 22:15:31,548:WARNING:A client without a server is not a good combination
+2023-04-28 22:21:06,993:WARNING:A client without a server is not a good combination
+2023-04-28 22:21:52,149:WARNING:A client without a server is not a good combination
+2023-04-28 22:22:21,009:WARNING:A client without a server is not a good combination
+2023-04-28 22:23:10,577:WARNING:A client without a server is not a good combination
+2023-04-28 22:24:08,660:WARNING:A client without a server is not a good combination
+2023-04-28 22:25:17,922:WARNING:A client without a server is not a good combination
+2023-04-28 22:25:51,526:WARNING:A client without a server is not a good combination
+2023-04-28 22:26:21,592:WARNING:A client without a server is not a good combination
+2023-04-28 22:26:53,604:WARNING:A client without a server is not a good combination
+2023-04-28 22:27:50,822:WARNING:A client without a server is not a good combination
+2023-04-28 22:28:31,205:WARNING:A client without a server is not a good combination
+2023-04-28 22:29:30,460:WARNING:A client without a server is not a good combination
+2023-04-28 22:35:03,466:WARNING:A client without a server is not a good combination
+2023-04-28 22:36:36,558:WARNING:A client without a server is not a good combination
+2023-04-28 22:41:18,939:WARNING:A client without a server is not a good combination
+2023-04-28 22:43:05,262:WARNING:A client without a server is not a good combination
+2023-04-28 22:45:34,896:WARNING:A client without a server is not a good combination
+2023-04-28 22:49:11,536:WARNING:A client without a server is not a good combination
+2023-04-28 22:57:16,546:WARNING:A client without a server is not a good combination
+2023-04-28 22:57:43,229:WARNING:A client without a server is not a good combination
+2023-04-28 22:58:17,255:WARNING:A client without a server is not a good combination
+2023-04-28 22:58:35,835:WARNING:A client without a server is not a good combination
+2023-04-28 22:59:01,243:WARNING:A client without a server is not a good combination
+2023-04-28 22:59:32,907:WARNING:A client without a server is not a good combination
+2023-04-28 22:59:58,298:WARNING:A client without a server is not a good combination
+2023-04-28 23:11:28,031:WARNING:A client without a server is not a good combination
+2023-04-28 23:12:11,527:WARNING:A client without a server is not a good combination
+2023-04-28 23:15:45,235:WARNING:A client without a server is not a good combination
+2023-04-28 23:18:49,190:WARNING:A client without a server is not a good combination
+2023-04-28 23:19:48,483:WARNING:A client without a server is not a good combination
+2023-04-28 23:21:53,220:WARNING:A client without a server is not a good combination
+2023-04-28 23:22:45,818:WARNING:A client without a server is not a good combination
+2023-04-28 23:23:14,833:WARNING:A client without a server is not a good combination
+2023-04-28 23:24:02,918:WARNING:A client without a server is not a good combination
+2023-04-28 23:27:54,236:WARNING:A client without a server is not a good combination
+2023-04-28 23:29:53,112:WARNING:A client without a server is not a good combination
+2023-04-28 23:33:24,764:WARNING:A client without a server is not a good combination
+2023-04-28 23:35:16,489:WARNING:A client without a server is not a good combination
+2023-04-28 23:35:34,438:WARNING:A client without a server is not a good combination
+2023-04-28 23:35:52,290:WARNING:A client without a server is not a good combination
+2023-04-28 23:36:14,703:WARNING:A client without a server is not a good combination
+2023-04-28 23:36:29,503:WARNING:A client without a server is not a good combination
+2023-04-28 23:36:44,114:WARNING:A client without a server is not a good combination
+2023-04-28 23:37:01,794:WARNING:A client without a server is not a good combination
+2023-04-28 23:37:19,387:WARNING:A client without a server is not a good combination
+2023-04-28 23:37:41,477:WARNING:A client without a server is not a good combination
+2023-04-28 23:37:52,702:WARNING:A client without a server is not a good combination
+2023-04-28 23:38:09,483:WARNING:A client without a server is not a good combination
+2023-04-28 23:38:27,215:WARNING:A client without a server is not a good combination
+2023-04-28 23:38:40,147:WARNING:A client without a server is not a good combination
+2023-04-28 23:39:14,031:WARNING:A client without a server is not a good combination
+2023-04-28 23:39:44,613:WARNING:A client without a server is not a good combination
+2023-04-28 23:40:01,949:WARNING:A client without a server is not a good combination
+2023-04-28 23:40:20,679:WARNING:A client without a server is not a good combination
+2023-04-28 23:41:00,713:WARNING:A client without a server is not a good combination
+2023-04-28 23:45:46,893:WARNING:A client without a server is not a good combination
+2023-04-28 23:53:37,955:WARNING:A client without a server is not a good combination
+2023-04-28 23:57:28,600:WARNING:A client without a server is not a good combination
+2023-04-28 23:58:54,794:WARNING:A client without a server is not a good combination
+2023-04-29 00:00:23,140:WARNING:A client without a server is not a good combination
+2023-04-29 00:07:43,486:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:08:03,671:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:08:09,774:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-04-29 00:08:14,215:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:08:50,992:WARNING:Failed login: username=665, IP=10.100.102.18
+2023-04-29 00:08:55,208:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:13:08,536:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:13:12,806:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-04-29 00:13:19,699:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:13:26,036:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:13:31,122:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:25:22,518:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:26:01,146:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:30:43,549:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:30:52,239:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:33:20,804:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:35:21,920:WARNING:Successful login: username=max1234, IP=10.100.102.18
+2023-04-29 00:40:17,094:WARNING:Successful login: username=tron, IP=10.100.102.18
+2023-04-29 00:42:34,483:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:42:41,104:WARNING:Failed login: username=Tron, IP=10.100.102.18
+2023-04-29 00:42:43,766:WARNING:Successful login: username=tron, IP=10.100.102.18
+2023-04-29 00:42:51,572:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:43:10,406:WARNING:Successful login: username=max1234, IP=10.100.102.18
+2023-04-29 00:44:19,630:WARNING:A client without a server is not a good combination
+2023-04-29 00:44:35,332:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:44:45,186:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:45:00,190:WARNING:Successful login: username=tron, IP=10.100.102.18
+2023-04-29 00:46:06,986:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:46:21,379:WARNING:Failed login: username=tron, IP=10.100.102.18
+2023-04-29 00:46:27,635:WARNING:Successful login: username=tron, IP=10.100.102.18
+2023-04-29 00:46:37,781:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:48:54,664:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:49:02,980:WARNING:Successful login: username=tron, IP=10.100.102.18
+2023-04-29 00:49:07,904:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:52:29,873:WARNING:A client without a server is not a good combination
+2023-04-29 00:52:31,905:WARNING:A client without a server is not a good combination
+2023-04-29 00:52:42,161:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-04-29 00:52:48,037:WARNING:Successful login: username=665, IP=10.100.102.18
+2023-04-29 00:53:07,120:WARNING:Successful login: username=tron, IP=10.100.102.18
+2023-04-29 00:53:13,631:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-04-29 00:53:27,734:WARNING:Successful login: username=max1234, IP=10.100.102.18
+2023-04-29 00:59:24,453:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-11 15:15:33,815:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-11 15:21:42,391:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-11 15:49:44,148:WARNING:A client without a server is not a good combination
+2023-05-11 20:02:58,371:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-11 20:06:22,686:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-11 20:07:45,852:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-11 20:09:01,781:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 14:33:30,312:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 14:37:08,414:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 14:39:58,221:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 14:43:25,431:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 15:02:22,905:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 15:04:25,906:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 15:59:31,072:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:00:17,939:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-12 16:00:23,359:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:09:12,410:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:21:17,526:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-12 16:21:20,179:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:26:36,109:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:28:19,116:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:29:28,194:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:29:53,041:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 16:34:00,202:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 18:58:06,868:WARNING:A client without a server is not a good combination
+2023-05-12 19:10:22,655:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 19:22:20,671:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-12 19:23:09,039:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 10:37:46,300:WARNING:Successful login: username=567, IP=10.100.102.18
+2023-05-13 10:48:26,178:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 10:48:36,442:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 10:51:29,201:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-13 10:51:30,593:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 10:51:35,593:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 10:52:38,783:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 10:52:48,083:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:00:23,557:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:00:28,359:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 11:01:31,695:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:01:38,543:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 11:02:00,001:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:06:00,762:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 11:11:31,316:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:11:47,513:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:12:56,979:WARNING:Failed login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:12:59,929:WARNING:Failed login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:13:05,589:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:16:01,008:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:22:17,747:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:24:29,933:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:30:37,098:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-13 11:30:39,241:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:33:10,857:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:33:24,404:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:37:27,564:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-13 11:37:30,026:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:37:49,060:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:38:34,122:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:38:48,951:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:52:44,298:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:53:15,493:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:53:43,383:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:55:03,602:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 11:55:22,423:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 11:58:45,236:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:03:17,898:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:04:15,625:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:05:52,968:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:06:21,331:WARNING:Successful login: username=orit@gmail.com, IP=10.100.102.18
+2023-05-13 12:07:17,820:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:09:24,087:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:10:02,222:WARNING:Failed login: username=2, IP=10.100.102.18
+2023-05-13 12:10:03,534:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 12:11:31,542:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:11:35,555:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 12:13:36,093:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:14:30,629:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:16:42,056:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:16:48,827:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 12:17:35,400:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:17:38,448:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 12:18:38,884:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:18:41,115:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 12:20:12,477:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 12:21:30,537:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 13:57:13,213:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 13:57:27,353:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 13:59:27,828:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 13:59:38,141:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:02:40,712:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 14:02:43,849:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:05:09,306:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 14:05:14,056:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:07:36,023:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 14:07:42,486:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:09:45,940:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 14:09:48,727:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:12:16,215:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:14:01,514:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 14:14:09,145:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:14:59,682:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 14:15:16,260:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 14:20:17,637:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 16:04:10,320:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 16:05:51,720:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 16:06:58,954:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 16:10:31,149:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 16:10:34,977:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 16:11:55,534:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 16:11:58,664:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 16:46:59,598:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 16:47:18,323:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 16:47:23,159:WARNING:Failed login: username=313, IP=10.100.102.18
+2023-05-13 16:56:35,126:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 17:03:15,386:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 17:03:18,149:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 17:05:27,949:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 17:10:29,978:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 17:17:04,955:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 17:21:21,384:WARNING:Failed login: username=, IP=10.100.102.18
+2023-05-13 17:26:35,286:WARNING:A client without a server is not a good combination
+2023-05-13 17:26:51,945:WARNING:Failed login: username=, IP=10.100.102.18
+2023-05-13 17:27:31,558:WARNING:Failed login: username=, IP=10.100.102.18
+2023-05-13 17:29:16,154:WARNING:Failed login: username=, IP=10.100.102.18
+2023-05-13 17:32:14,904:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-13 19:03:53,629:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:06:13,992:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:16:29,012:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:17:45,787:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:18:59,781:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-13 19:19:01,837:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:19:11,458:WARNING:Successful login: username=2, IP=10.100.102.18
+2023-05-13 19:25:09,497:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:26:38,773:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:34:11,827:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-13 19:56:10,854:WARNING:Successful login: username=123, IP=10.100.102.18
+2023-05-16 21:28:30,890:WARNING:A client without a server is not a good combination
+2023-05-16 21:28:34,570:WARNING:A client without a server is not a good combination
+2023-05-23 22:48:38,071:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:48:38,609:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:48:39,152:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:48:39,543:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:48:39,923:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:48:40,386:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-05-23 22:48:41,890:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-05-23 22:48:45,946:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-05-23 22:48:47,850:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-05-23 22:54:31,735:INFO:This is an info message
+2023-05-23 22:54:31,736:WARNING:This is a warning message
+2023-05-23 22:54:31,736:ERROR:This is an error message
+2023-05-23 22:54:31,736:CRITICAL:This is a critical message
+2023-05-23 22:54:33,229:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 22:55:19,200:INFO:This is an info message
+2023-05-23 22:55:19,200:WARNING:This is a warning message
+2023-05-23 22:55:19,201:ERROR:This is an error message
+2023-05-23 22:55:19,201:CRITICAL:This is a critical message
+2023-05-23 22:55:21,121:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 22:56:51,962:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 22:56:55,353:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:56:57,665:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:56:57,842:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:56:57,992:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:56:58,124:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:56:58,302:WARNING:Blocked IP=10.100.102.18 for excessive login attempts
+2023-05-23 22:59:40,021:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:59:41,502:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:59:41,757:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:59:42,132:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:59:42,446:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 22:59:42,825:CRITICAL:Blocked IP=10.100.102.18 for excessive login attempts
+2023-05-23 23:05:28,100:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 23:06:18,782:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 23:09:02,656:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 23:26:34,466:WARNING:Failed login: username=55555555555555555555555555555555555555555555555555555555555555555555, IP=10.100.102.18
+2023-05-23 23:28:25,587:WARNING:Failed login: username=def handle_add_userself
+        self.button_presses  1   Increment the counter each time the button is pressed
+        if self.button_presses  10   If the button has been pressed 10 or more times
+            self.btn_register.configstateDISABLED   Disable the button
+
+        self.canvas.deleteerror_message
+        error_messages  
+
+        if lenself.email.get  0
+            error_messages.appendMissing email. 117
+        if lenself.password.get  0
+            error_messages.appendMissing password. 191
+        if lenself.firstname.get  0
+            error_messages.appendMissing firstname. 262
+        if lenself.firstname.get  10
+            error_messages.appendName too long 262
+        if lenself.email.get  50
+            error_messages.appendEmail too long 117
+        if lenself.email.get  0 and lenself.email.get  50
+            if self.check_email_existsself.email.get
+                error_messages.appendEmail already in use. 117
+
+        if error_messages
+            for error y in error_messages
+                self.canvas.create_text250 y texterror fillred tagserror_message
+        else
+            self.client_handler  threading.Threadtargetself.register_user args
+            self.client_handler.daemon  True
+            self.client_handler.start, IP=10.100.102.18
+2023-05-23 23:28:53,192:WARNING:Failed login: username=import argparse
+import random
+import socket
+import threading
+from users import 
+import ssl
+from statistics import Statistics
+import os
+
+ Server class
+class Serverobject
+
+     Constructor
+    def __init__self
+         Create argument parser
+        parser  argparse.ArgumentParser
+
+         Add arguments for IP address port key file and certificate file
+        parser.add_argument-i --ip helpServer IP address default10.100.102.18
+        parser.add_argument-p --port helpServer port typeint default8050
+        parser.add_argument-k --key helpKey file for SSL defaultNone
+        parser.add_argument-c --cert helpCertificate file for SSL defaultNone
+
+         Parse the arguments
+        self.args  parser.parse_args
+
+         Initialize other instance variables
+        self.count  0
+        self.running  True
+        self.userDb  User
+        self.current_sentence  None
+        self.statisticsDB  Statistics
+        self.sessions  
+        self.clients  
+        self.client_threads  
+
+         Set the default key and certificate files if they are not provided
+        if self.args.key is None
+            self.args.key  os.path.joinos.path.dirnameos.path.abspath__file__ server.key
+        if self.args.cert is None
+            self.args.cert  os.path.joinos.path.dirnameos.path.abspath__file__ server.crt
+
+    @staticmethod
+    def send_messageclient_socket message
+        message  message.encodeutf-8
+        message_length  lenmessage
+        send_length  message_length.to_bytes4 big
+        client_socket.sendsend_length
+        client_socket.sendmessage
+
+    @staticmethod
+    def receive_messageclient_socket
+        message_length_header  client_socket.recv4
+        if not message_length_header
+            return 
+        try
+            message_length  int.from_bytesmessage_length_header big
+        except ValueError
+            printfError Received invalid message length header message_length_header
+            return 
+        message  b
+        bytes_received  0
+        while bytes_received  message_length
+            bytes_to_receive  min1024 message_length - bytes_received
+            chunk  client_socket.recvbytes_to_receive
+            if not chunk
+                break
+            message  chunk
+            bytes_received  lenchunk
+        return message.decodeutf-8
+
+    def startself
+        try
+            printserver starting up on ip s port s  self.args.ip self.args.port
+            self.sock  socket.socketsocket.AF_INET socket.SOCK_STREAM
+            self.sock.bindself.args.ip self.args.port
+            self.sock.listen3
+            if self.args.key and self.args.cert
+                context  ssl.SSLContextssl.PROTOCOL_TLSv1_2
+                context.load_cert_chaincertfileself.args.cert keyfileself.args.key
+                try
+                    self.sock  context.wrap_socketself.sock server_sideTrue
+                    if hasattrself.sock context and self.sock.context
+                        printSocket wrapped with SSL
+                    else
+                        printError wrapping socket with SSL
+                except ssl.SSLError as e
+                    printSSL error occurred e
+                except ssl.CertificateError as e
+                    printCertificate error occurred e
+
+            while True
+                printwaiting for a new client
+                client_socket client_addresses  self.sock.accept
+                self.clients.appendclient_socket
+                printnew client entered
+                self.send_messageclient_socket Hello this is server
+                self.count  1
+                printself.count
+                client_thread  threading.Threadtargetself.handle_client_connection argsclient_socket
+                client_thread.start
+                self.client_threads.appendclient_thread
+
+        except socket.error as e
+            printSocket error occurred e
+        except Exception as e
+            printAn unexpected error occurred e
+
+    def handle_client_connectionself client_socket
+        current_user  None
+        while self.running
+            try
+                server_data  self.receive_messageclient_socket
+                if not server_data
+                    raise ConnectionResetErrorClient sent an empty message
+                arr  server_data.split
+                printserver_data
+                if arr is not None and arr0  register and lenarr  4
+                    printregister user
+                    printarr
+                    server_data  self.userDb.insert_userarr1 arr2 arr3
+                    printserver data server_data
+                    if server_data
+                        self.send_messageclient_socket success register
+                    else
+                        self.send_messageclient_socket failed register
+
+                elif arr is not None and arr0  login and lenarr  3
+                    printLogin
+                    if arr1 in self.sessions
+                        printUser already logged in
+                        self.send_messageclient_socket User is already logged in
+                    else
+                        user_exists  self.userDb.loginarr1 arr2
+                        if not user_exists
+                            printuser not found
+                            self.send_messageclient_socket False
+                        else
+                            printuser found
+                            self.send_messageclient_socket True
+                            self.sessionsarr1  client_socket
+                            current_user  arr1
+                elif arr is not None and arr0  play_game
+                    printPlaying game
+                    self.sentences  Passwords should be kept secure Protect your data from hackers
+                                      Malware can harm your computer
+                                      Dont click suspicious email links Use strong passwords always
+                                      Use two factor authentication
+                    self.current_sentence  random.choiceself.sentences
+                    encrypted_sentence  
+                    for char in self.current_sentence
+                        if char.isalpha
+                            shifted_char  chrordchar.lower - 97  3  26  97
+                            encrypted_sentence  shifted_char.upper if char.isupper else shifted_char
+                        else
+                            encrypted_sentence  char
+                    encrypted_sentence  encrypted_sentence.strip
+                    self.send_messageclient_socket encrypted_sentence
+
+                elif arr is not None and arr0  check_answer and lenarr  3
+                    printChecking answer
+                    user_input  arr1
+                    if user_input.lower  self.current_sentence.lower
+                        self.send_messageclient_socket successfully decrypted
+                    else
+                        self.send_messageclient_socket Game over
+
+
+                elif arr is not None and arr0  get_statistics and lenarr  2
+                    printGetting statistics
+                    user_id  arr1
+                    avg_statistics  self.statisticsDB.get_average_statisticsuser_id
+                    user_number_of_games  self.statisticsDB.get_user_number_of_gamesuser_id
+                    user_wpm_history  self.statisticsDB.get_user_wpm_historyuser_id
+                    user_accuracy_history  self.statisticsDB.get_user_Accuracy_historyuser_id
+
+                    statistics_data  avg_statistics user_number_of_games user_wpm_history user_accuracy_history
+                    self.send_messageclient_socket strstatistics_data
+
+
+                elif arr is not None and arr0  get_current_user_id and lenarr  1
+                    printGetting current user ID
+                    current_user  self.userDb.get_current_user
+                    if current_user
+                        conn  sqlite3.connectusers_new.db
+                        cursor  conn.cursor
+                        query  SELECT Id FROM Users where email  s  current_user
+                        cursor.executequery
+                        row  cursor.fetchone
+                        if row
+                            user_id  row0
+                            self.send_messageclient_socket struser_id
+                        else
+                            self.send_messageclient_socket 
+                        cursor.close
+                        conn.close
+
+
+                elif arr is not None and arr0  add_statistics and lenarr  6
+                    printAdding statistics
+                    user_id  arr1
+                    wpm  floatarr2
+                    total_words  intarr3
+                    wrong_words  intarr4
+                    accuracy  floatarr5
+                    self.statisticsDB.add_statisticsuser_id wpm total_words wrong_words accuracy
+                    self.send_messageclient_socket Statistics added
+
+
+                elif arr is not None and arr0  check_email_exists and lenarr  2
+                    printChecking if email exists
+                    email  arr1
+                    email_exists  self.userDb.is_exist_by_emailemail
+                    if email_exists
+                        self.send_messageclient_socket True
+                    else
+                        self.send_messageclient_socket False
+                elif arr is not None and arr0  get_username
+                    printGetting username
+                    current_user  self.userDb.get_current_user
+                    if current_user
+                        conn  sqlite3.connectusers_new.db
+                        cursor  conn.cursor
+                        query  SELECT username FROM Users where email  s  current_user
+                        cursor.executequery
+                        row  cursor.fetchone
+                        if row
+                            display_username  row0
+                            self.send_messageclient_socket display_username
+                        else
+                            self.send_messageclient_socket 
+                        cursor.close
+                        conn.close
+
+                else
+                    printInvalid command
+                    self.send_messageclient_socket Invalid command
+
+            exceptConnectionResetError ConnectionAbortedError
+                printclient disconnected
+                if current_user and current_user in self.sessions
+                    del self.sessionscurrent_user
+                client_socket.close
+                self.clients.removeclient_socket
+                self.sessions  k v for k v in self.sessions.items if v  client_socket
+                break
+
+    def stop_serverself
+        self.running  False
+        for client in self.clients
+            client.close
+        for thread in self.client_threads
+            thread.join
+        self.sock.close
+
+if __name__  __main__
+    s  Server
+    s.start, IP=10.100.102.18
+2023-05-23 23:30:11,918:WARNING:Failed login: username=556645, IP=10.100.102.18
+2023-05-23 23:39:47,561:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 23:47:37,498:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 23:52:13,504:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-23 23:55:54,565:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-23 23:55:55,608:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 00:01:33,091:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 00:03:28,244:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 00:07:51,781:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 00:09:28,674:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 00:16:12,402:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:31:51,199:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:32:45,472:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:35:18,548:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:40:36,418:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:41:46,242:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:42:01,460:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:44:19,346:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:44:37,790:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:44:47,169:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:44:49,011:WARNING:Failed login: username=, IP=10.100.102.18
+2023-05-24 08:44:51,058:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:47:00,723:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:47:07,565:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:47:30,882:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:52:50,728:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 08:56:03,179:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-24 08:58:09,985:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 14:54:50,999:WARNING:A client without a server is not a good combination
+2023-05-24 14:57:24,629:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 15:16:33,771:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 15:22:13,273:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 15:23:08,594:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 15:23:15,374:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-24 15:23:51,513:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 15:24:14,252:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 15:24:29,641:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-24 15:28:38,065:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-24 15:34:06,713:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-24 15:50:36,827:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-24 15:51:11,942:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-24 18:35:35,768:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-24 18:36:13,831:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-05-24 18:53:52,683:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 15:11:28,616:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 15:11:36,888:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 15:12:21,039:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 15:25:37,089:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 15:26:06,632:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 15:26:23,863:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 15:27:58,997:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 15:32:40,164:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 15:57:29,702:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:00:43,603:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:01:02,949:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 16:05:57,793:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:06:28,596:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:10:45,814:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:14:24,369:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:15:01,043:WARNING:Failed login: username=124, IP=10.100.102.18
+2023-05-30 16:23:43,129:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:24:09,143:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:24:19,960:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 16:24:56,069:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:31:16,417:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 16:31:29,989:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 19:12:46,156:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 19:12:54,193:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 19:13:02,480:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 19:13:07,818:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 19:14:14,823:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 19:14:40,103:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 19:14:46,842:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 20:04:14,672:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 20:34:22,355:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-30 20:34:26,291:INFO:Successful login: username=2, IP=10.100.102.18
+2023-05-30 20:34:31,963:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 09:02:46,062:INFO:Successful login: username=123, IP=127.0.0.1
+2023-05-31 09:02:48,084:WARNING:A client without a server is not a good combination
+2023-05-31 09:06:53,109:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 09:07:21,466:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 11:00:17,222:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 11:05:04,102:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-05-31 11:09:39,388:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-05-31 11:11:00,483:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-05-31 11:13:49,144:WARNING:Failed login: username=Admin, IP=10.100.102.18
+2023-05-31 11:15:32,684:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-05-31 13:26:17,214:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-05-31 13:31:37,156:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 13:33:36,258:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 13:34:27,939:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 13:35:38,963:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 13:50:01,212:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 13:56:18,746:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 13:56:54,381:WARNING:A client without a server is not a good combination
+2023-05-31 13:58:33,125:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 14:02:04,601:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 14:05:07,288:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 14:08:16,153:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 23:33:54,329:INFO:Successful login: username=123, IP=10.100.102.18
+2023-05-31 23:39:19,192:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-06-01 11:57:51,018:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-01 11:58:14,008:INFO:Successful login: username=2, IP=10.100.102.18
+2023-06-01 12:07:58,714:WARNING:Failed login: username=Admin, IP=10.100.102.18
+2023-06-01 12:09:01,545:WARNING:Failed login: username=Admin, IP=10.100.102.18
+2023-06-01 12:09:45,968:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-01 12:17:18,028:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-01 12:17:29,923:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-01 12:26:53,361:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-01 12:29:01,011:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-01 12:29:49,971:WARNING:Failed login: username=ken@gmail.com, IP=10.100.102.18
+2023-06-01 12:29:55,140:WARNING:Failed login: username=ken@gmail.com, IP=10.100.102.18
+2023-06-01 12:30:03,239:WARNING:Failed login: username=ken@gmail.com, IP=10.100.102.18
+2023-06-01 12:31:55,373:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-01 12:32:25,306:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-01 12:32:47,588:WARNING:Failed login: username=ken123@gmail.com, IP=10.100.102.18
+2023-06-02 12:53:50,096:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-04 01:31:27,588:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-04 01:43:18,388:WARNING:Failed login: username=Admin, IP=10.100.102.18
+2023-06-04 01:43:32,524:WARNING:Failed login: username=Admin, IP=10.100.102.18
+2023-06-06 23:25:54,809:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-07 14:21:43,545:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:21:52,694:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:22:00,276:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:22:08,848:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:22:13,806:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:22:25,514:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:22:31,400:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:22:39,817:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:23:03,307:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:23:11,015:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:23:25,040:CRITICAL:Blocked IP=10.100.102.18 for excessive login attempts
+2023-06-07 14:24:03,094:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:24:24,276:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-07 14:24:33,968:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-09 13:25:30,656:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:28:57,948:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:29:34,475:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:32:23,350:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:32:51,212:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:37:57,812:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:38:35,752:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:39:02,271:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:49:08,240:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:51:37,672:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:52:04,124:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:53:30,893:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:57:17,707:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 13:57:27,488:INFO:Successful login: username=2, IP=10.100.102.18
+2023-06-09 14:01:37,409:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 14:03:19,198:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 14:03:39,615:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 14:20:00,687:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 14:20:14,176:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 23:57:56,930:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-09 23:58:29,986:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 10:49:22,564:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 10:51:33,844:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 10:52:10,516:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 10:53:38,525:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 10:56:40,567:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 10:57:53,046:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 10:58:20,564:WARNING:Failed login: username=INSERT 123, IP=10.100.102.18
+2023-06-10 11:12:14,104:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 12:32:55,551:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 12:37:28,855:WARNING:A client without a server is not a good combination
+2023-06-10 12:38:48,098:WARNING:A client without a server is not a good combination
+2023-06-10 12:38:53,475:WARNING:A client without a server is not a good combination
+2023-06-10 12:39:13,529:WARNING:A client without a server is not a good combination
+2023-06-10 12:39:15,264:WARNING:A client without a server is not a good combination
+2023-06-10 12:39:25,844:WARNING:A client without a server is not a good combination
+2023-06-10 12:40:15,579:WARNING:A client without a server is not a good combination
+2023-06-10 12:40:22,753:WARNING:A client without a server is not a good combination
+2023-06-10 12:40:53,343:WARNING:A client without a server is not a good combination
+2023-06-10 12:40:58,799:WARNING:A client without a server is not a good combination
+2023-06-10 12:54:22,099:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 13:07:01,265:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 19:59:33,835:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 20:04:21,480:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-10 20:31:01,254:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-11 12:58:09,020:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-11 22:52:51,806:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-11 22:53:55,025:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-11 22:54:07,970:INFO:Successful login: username=2, IP=10.100.102.18
+2023-06-11 22:58:22,415:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-11 22:58:37,189:INFO:Successful login: username=2, IP=10.100.102.18
+2023-06-11 23:02:07,315:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-11 23:02:25,029:INFO:Successful login: username=2, IP=10.100.102.18
+2023-06-11 23:04:11,216:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-11 23:04:25,132:INFO:Successful login: username=2, IP=10.100.102.18
+2023-06-12 23:17:57,946:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:18:28,060:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:23:44,222:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:24:28,323:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:27:24,618:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:29:14,715:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:35:33,643:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:37:20,996:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:38:29,787:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:39:23,600:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 07:50:09,774:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 08:15:09,496:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-13 18:35:29,942:WARNING:A client without a server is not a good combination
+2023-06-13 18:36:29,660:WARNING:A client without a server is not a good combination
+2023-06-13 18:36:34,132:WARNING:A client without a server is not a good combination
+2023-06-13 18:37:12,676:INFO:Successful login: username=123, IP=127.0.0.1
+2023-06-13 18:37:30,735:INFO:Successful login: username=2, IP=127.0.0.1
+2023-06-13 19:30:49,627:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-14 17:30:11,792:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-14 21:15:54,952:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-14 21:19:28,247:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-14 21:27:27,172:WARNING:A client without a server is not a good combination
+2023-06-14 21:31:52,805:WARNING:A client without a server is not a good combination
+2023-06-14 21:33:00,807:WARNING:A client without a server is not a good combination
+2023-06-14 21:33:33,578:WARNING:A client without a server is not a good combination
+2023-06-15 10:26:08,864:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-15 15:15:02,333:WARNING:A client without a server is not a good combination
+2023-06-15 15:15:04,203:WARNING:A client without a server is not a good combination
+2023-06-19 10:47:07,886:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-21 19:05:38,409:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-21 19:11:22,278:INFO:Successful login: username=123, IP=10.100.102.18
+2023-06-22 09:34:17,885:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-22 09:34:41,865:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-06-30 13:39:15,687:INFO:Successful login: username=123, IP=10.100.102.18
+2023-07-02 20:53:19,860:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-07-30 22:55:39,350:INFO:Successful login: username=123, IP=127.0.0.1
+2023-07-30 23:01:11,234:INFO:Successful login: username=123, IP=127.0.0.1
+2023-07-30 23:02:07,038:INFO:Successful login: username=123, IP=127.0.0.1
+2023-08-06 23:40:47,322:INFO:Successful login: username=123, IP=10.100.102.18
+2023-09-06 13:50:44,315:INFO:Successful login: username=123, IP=10.100.102.18
+2023-09-09 20:02:38,017:INFO:Successful login: username=123, IP=10.100.102.18
+2023-09-09 20:04:46,477:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-09-09 20:08:03,155:INFO:Successful login: username=123, IP=10.100.102.18
+2023-09-09 20:17:13,301:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-10-01 09:11:45,432:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-01 09:11:52,441:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:11:52,825:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:11:53,149:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:22,971:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:23,525:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:23,905:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:24,224:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:25,680:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:25,877:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:26,062:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:26,631:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:26,792:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:27,536:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:15:27,714:CRITICAL:Blocked IP=10.100.102.18 for excessive login attempts
+2023-10-01 09:16:00,866:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-01 09:16:59,424:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:17:03,547:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:17:04,916:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:17:10,615:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-01 09:35:57,675:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:36:00,504:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-01 09:36:04,185:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-01 09:36:14,065:WARNING:Failed login: username=123, IP=10.100.102.18
+2023-10-03 09:24:58,130:WARNING:A client without a server is not a good combination
+2023-10-03 09:26:56,067:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-03 09:29:56,035:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-10-03 09:33:49,281:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-03 09:34:05,334:WARNING:Failed login: username=1213, IP=10.100.102.18
+2023-10-03 09:34:05,496:WARNING:Failed login: username=1213, IP=10.100.102.18
+2023-10-03 09:34:05,654:WARNING:Failed login: username=1213, IP=10.100.102.18
+2023-10-03 09:34:05,801:WARNING:Failed login: username=1213, IP=10.100.102.18
+2023-10-03 09:34:05,953:WARNING:Failed login: username=1213, IP=10.100.102.18
+2023-10-03 09:38:48,430:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-03 20:12:48,259:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-03 20:12:53,279:WARNING:Failed login: username=admin, IP=10.100.102.18
+2023-10-30 11:57:01,923:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-30 12:05:28,376:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-31 17:04:42,075:WARNING:A client without a server is not a good combination
+2023-10-31 17:08:10,664:INFO:Successful login: username=123, IP=10.100.102.18
+2023-10-31 17:10:02,461:INFO:Successful login: username=123, IP=10.100.102.18
